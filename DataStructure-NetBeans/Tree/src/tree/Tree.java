@@ -15,7 +15,7 @@ public class Tree {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        TreeInsertion.Main_TreeInsertion.Main_TreeInsertion_();
     }
     
 }
